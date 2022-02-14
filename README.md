@@ -71,4 +71,6 @@ private void initmap() {
 
 Por último se desea crear un dispositivo motor, que ha de implementar los métodos Start,Stop, incRPM, decRPM, getState y getRPM definiendo una interfaz, además a de implementar
 la interfaz Runnable y crear un hilo, mostrando por pantalla cada segundo en caso de estar iniciado, las RPM actuales.
+<center>
 ![image](https://raw.githubusercontent.com/pass1enator/DAWDomoticaTemplate/master/captura.png)
+</center>
