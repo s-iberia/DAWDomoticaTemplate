@@ -43,7 +43,7 @@ import pedro.ieslaencanta.com.domoticainterfaces.devices.Device;
 
 /**
  *
- * @author Pedro
+ * @author akopovR
  */
 public class Principal extends Application {
 
