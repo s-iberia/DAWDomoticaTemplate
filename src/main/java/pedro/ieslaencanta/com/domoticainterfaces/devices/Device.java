@@ -16,7 +16,7 @@ import pedro.ieslaencanta.com.domoticainterfaces.devices.annotations.AParameter;
  */
 /**
  *
- * @author Pedro
+ * @author akopovR
  */
 
 
